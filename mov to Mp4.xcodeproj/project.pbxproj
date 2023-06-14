@@ -13,6 +13,7 @@
 		22FF48D82A39EE5C00C19410 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22FF48D62A39EE5C00C19410 /* Main.storyboard */; };
 		22FF48DA2A39EE5D00C19410 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22FF48D92A39EE5D00C19410 /* Assets.xcassets */; };
 		22FF48DD2A39EE5D00C19410 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22FF48DB2A39EE5D00C19410 /* LaunchScreen.storyboard */; };
+		22FF48E52A39F4E800C19410 /* file_example_MOV_480_700kB.mov in Resources */ = {isa = PBXBuildFile; fileRef = 22FF48E42A39F4E800C19410 /* file_example_MOV_480_700kB.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		22FF48D92A39EE5D00C19410 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22FF48DC2A39EE5D00C19410 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22FF48DE2A39EE5D00C19410 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22FF48E42A39F4E800C19410 /* file_example_MOV_480_700kB.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = file_example_MOV_480_700kB.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		22FF48CF2A39EE5C00C19410 /* mov to Mp4 */ = {
 			isa = PBXGroup;
 			children = (
+				22FF48E42A39F4E800C19410 /* file_example_MOV_480_700kB.mov */,
 				22FF48D02A39EE5C00C19410 /* AppDelegate.swift */,
 				22FF48D22A39EE5C00C19410 /* SceneDelegate.swift */,
 				22FF48D42A39EE5C00C19410 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22FF48E52A39F4E800C19410 /* file_example_MOV_480_700kB.mov in Resources */,
 				22FF48DD2A39EE5D00C19410 /* LaunchScreen.storyboard in Resources */,
 				22FF48DA2A39EE5D00C19410 /* Assets.xcassets in Resources */,
 				22FF48D82A39EE5C00C19410 /* Main.storyboard in Resources */,
